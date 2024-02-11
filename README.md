@@ -1,4 +1,4 @@
-# ue4_doxygen_source_filter
+# ue_doxygen_source_filter
 
 This is a small [Python 3](https://www.python.org/) script intended to allow the [Doxygen](http://www.stack.nl/~dimitri/doxygen/) documentation tool to be run on C++ code which is using [Unreal Engine 4](https://www.unrealengine.com/what-is-unreal-engine-4).
 
