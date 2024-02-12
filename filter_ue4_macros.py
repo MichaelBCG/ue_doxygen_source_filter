@@ -1,4 +1,3 @@
-#!env python3
 import re
 import sys
 
@@ -34,3 +33,5 @@ content = re.sub(regex, r'\1/* UE4 Macro: \2 */', content, flags=re.MULTILINE)
 
 # Output the content
 print(content, end='')
+
+
